@@ -1,10 +1,10 @@
 # Omnifood
 
-A Healthy Food Delivery Company and it's a fictional company, that provides food subscriptions for its customers.
+A Healthy Food Delivery Company and it's a not real company, about food subscriptions for customers.
 
 ## Build with
 
-Html , CSS and some javascript to make the work with the site handy.
+Html , CSS and some javascript to make the work with the site handy, but no real functionality or real backend technologies.
 
 # It contains the following
 
@@ -26,11 +26,7 @@ Html , CSS and some javascript to make the work with the site handy.
 
 Deployed Website: [Omnifood](https://omnifood-khattab.netlify.app/)
 
-## Screen record
-
-[Omnifood](https://www.youtube.com/watch?v=3kVY4z329go)
-
 ## Note
 
-- I used media query to make it responsive on phones , small laptops ,Landscape tablets and small tablets .
+- I used media query to make it responsive on phones, Desktop, laptops ,Landscape tablets and small tablets .
 - The site works well on most browsers .
