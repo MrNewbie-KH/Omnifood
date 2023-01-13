@@ -24,7 +24,7 @@ Html , CSS and some javascript to make the work with the site handy.
 
 ## Deployment/Live Demo
 
-Deployed Website: [Omnifood](https://omnifood-11.netlify.app/)
+Deployed Website: [Omnifood](https://omnifood-khattab.netlify.app/)
 
 ## Screen record
 
